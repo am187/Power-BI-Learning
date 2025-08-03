@@ -42,3 +42,7 @@ This repo contains:
 - Data Modeling
 - DAX (Basic & Advanced)
 - Interactive Visuals (Cards, Slicers, Charts, Matrix, Tooltips, Bookmarks)
+- 
+## Contact
+Feel free to reach out if you have any questions or feedback:
+- LinkedIn: (https://www.linkedin.com/in/amol-thakare-182610352/)
