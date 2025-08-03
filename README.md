@@ -1,5 +1,3 @@
-# Power-BI-Learning
-
 # 📊 Power BI Learning Journey & Dashboards
 
 Welcome to my Power BI learning repository where I explore business intelligence and data visualization concepts by building hands-on projects.
